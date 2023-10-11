@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**giannidona/giannidona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Información Personal
 
-Here are some ideas to get you started:
+- **Nombre:** Gianluca Donato
+- **Edad:** 18 años
+- **Estudio:** Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tecnologías
+
+Actualmente estoy estudiando y trabajando con las siguientes tecnologías:
+
+- HTML
+- CSS
+- JavaScript (JS)
+- Express.js
+- MongoDB
+
+Si tienes alguna pregunta o deseas saber más sobre mi experiencia con estas tecnologías, no dudes en contactarme.
